@@ -1,3 +1,3 @@
-pureba 1 
+prueba 1  
 segunda version
 tercera version
